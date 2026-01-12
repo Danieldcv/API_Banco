@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VWwnN0MVS2Kvg7LEFAz7sDrMubQfH6Regz36HJKeiHI=",
+  "Source": "BancoApi",
+  "BasePath": "_content/BancoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
